@@ -1,6 +1,6 @@
-**Name:** John David Lamzon
-**Year Level:** Third Year
-**Interest:** Brute-force Attack
+**Name:** John David Lamzon <b></b>
+**Year Level:** Third Year <b></b>
+**Interest:** Brute-force Attack <b></b>
 **Computer Specs**
 |	|	|
 |-------------|--------------------|----------------------|
