@@ -8,7 +8,7 @@
 
 **Computer Specs:**
 
-**CPU:** AMD Ryzen 5 2500U & AMD Radeon 550 | AMD Ryzen 5 2400G & NVIDIA GEFORCE GTX 750ti
+**CPU:** AMD Ryzen 5 2500U & AMD Radeon 550 | AMD Ryzen 5 2400G & NVIDIA GeForce GTX 750ti
 
 **RAM:** 12GB RAM DDR4 2400 Mhz | 12GB RAM DDR4 2400 Mhz
 
